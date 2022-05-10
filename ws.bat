@@ -1,0 +1,1 @@
+start cmd /c "python c:\work\pyserv\ws.py %*"
